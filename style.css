@@ -3,7 +3,7 @@
 				padding:0;
 }
 #banner{
-background-image:linear-gradient(rgba(0,0,0,0.5),#FFFF80DD),url('Images/backgroundimg.png');
+background-image:linear-gradient(rgba(0,0,0,0.5),#80ffff),url('Images/backgroundimg.png');
 			background-size: cover; background-position: center; 
 			height:110vh;
 		}
@@ -74,7 +74,7 @@ width: 180px;
 height: 100vh;
 position: fixed; top: 0;
 right: -250px;
-background: #FFFF80DD;
+background: #80ffff;
 z-index: 2;
 transition: 0.5s;
 }
@@ -91,7 +91,7 @@ text-decoration: none;
 #menuBtn{
 width: 50px;
 height: 50px;
-background: #FFFF80DD;
+background: #80ffff;
  text-align: center;
 position: fixed;
 right: 30px;
@@ -132,7 +132,7 @@ text-align: center; padding-bottom: 70px;
 }
 .title-text p{ 
 margin: auto;
- color: #FFFF80DD; 
+ color: #80ffff; 
  font-weight: bold; 
  position: relative; 
  display: inline-block;
@@ -178,7 +178,7 @@ flex-basis: 50%;
 text-align: left; 
 margin-bottom: 10px; 
 font-weight: 100; 
-color: #FFFF80DD;
+color: #80ffff;
  }
 .features-desc{
 display: flex;
@@ -191,8 +191,8 @@ margin-bottom: 40px;
 				font-size:30px;
 				line-height:50px;
 				border-radius:8px;
-				color:#FFFF80DD;
-				border:1px solid #FFFF80DD;
+				color:#80ffff;
+				border:1px solid #80ffff;
 }
 .feature-text p{
 padding: 0 20px;
@@ -251,7 +251,7 @@ position: absolute;
 top: 0;
 border-radius: 7px;
 cursor: pointer;
-background: linear-gradient(rgba(0,0,0,0.5), #FFFF80DD);
+background: linear-gradient(rgba(0,0,0,0.5), #80ffff);
 opacity: 0;
 transition: 1s;
 }
@@ -347,7 +347,7 @@ color: #27c0ff;
 font-size: 20px;
 }
 .user-info small{
- color: #FFFF80DD;
+ color: #80ffff;
 }
 .testimonial-col:hover{
  transform: translateY(-7px); 
@@ -391,7 +391,7 @@ text-align: right;
   }
  .footer-left .fa,.footer-right .fa{
 font-size: 20px;
-color: #FFFF80DD;
+color: #80ffff;
 margin: 10px;
 }
 .footer-img{
@@ -414,7 +414,7 @@ height: 40px;
 width: 40px;
 font-size: 20px;
 line-height: 40px;
-border: 1px solid #FFFF80DD;
+border: 1px solid #80ffff;
 margin: 40px 5px 0;
 color: #FFFF80DD;
 cursor: pointer; 
@@ -426,7 +426,7 @@ transition: .5s;
 }
 
 .social-links .fa:hover{
-background: #FFFF80DD;
+background: #80ffff;
 color: #fff;
 transform: translateY(-7px);
 
@@ -447,7 +447,7 @@ top: 25%;
 
 }
 .BT{
-				background:#FFFF80DD;
+				background:#80ffff;
 				color:white;
 				border-radius: 8px;
 				font-weight: bold;
@@ -487,7 +487,7 @@ position: absolute;
 top: 0;
 border-radius: 7px;
 cursor: pointer;
-background: linear-gradient(rgba(0,0,0,0.5), #FFFF80DD);
+background: linear-gradient(rgba(0,0,0,0.5), #80ffff);
 opacity: 0;
 transition: 1s;
 }
@@ -589,7 +589,7 @@ height: 27px;
 
 margin-top: 10px;
 
-background:#FFFF80DD;
+background:#80ffff;
 
 border: medium none;
 
