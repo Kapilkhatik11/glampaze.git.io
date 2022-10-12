@@ -1,9 +1,9 @@
-*{
+<!-- created by Kapil khatik-->*{
 				margin:0;
 				padding:0;
 }
 #banner{
-background-image:linear-gradient(rgba(0,0,0,0.5),#009688),url('Images/backgroundimg.png');
+background-image:linear-gradient(rgba(0,0,0,0.5),#FFFF80DD),url('Images/backgroundimg.png');
 			background-size: cover; background-position: center; 
 			height:110vh;
 		}
@@ -74,7 +74,7 @@ width: 180px;
 height: 100vh;
 position: fixed; top: 0;
 right: -250px;
-background: #009688;
+background: #FFFF80DD;
 z-index: 2;
 transition: 0.5s;
 }
@@ -91,7 +91,7 @@ text-decoration: none;
 #menuBtn{
 width: 50px;
 height: 50px;
-background: #009688;
+background: #FFFF80DD;
  text-align: center;
 position: fixed;
 right: 30px;
@@ -132,7 +132,7 @@ text-align: center; padding-bottom: 70px;
 }
 .title-text p{ 
 margin: auto;
- color: #009688; 
+ color: #FFFF80DD; 
  font-weight: bold; 
  position: relative; 
  display: inline-block;
@@ -178,7 +178,7 @@ flex-basis: 50%;
 text-align: left; 
 margin-bottom: 10px; 
 font-weight: 100; 
-color: #009688;
+color: #FFFF80DD;
  }
 .features-desc{
 display: flex;
@@ -191,8 +191,8 @@ margin-bottom: 40px;
 				font-size:30px;
 				line-height:50px;
 				border-radius:8px;
-				color:#009688;
-				border:1px solid #009688;
+				color:#FFFF80DD;
+				border:1px solid #FFFF80DD;
 }
 .feature-text p{
 padding: 0 20px;
@@ -251,7 +251,7 @@ position: absolute;
 top: 0;
 border-radius: 7px;
 cursor: pointer;
-background: linear-gradient(rgba(0,0,0,0.5), #009688);
+background: linear-gradient(rgba(0,0,0,0.5), #FFFF80DD);
 opacity: 0;
 transition: 1s;
 }
@@ -347,7 +347,7 @@ color: #27c0ff;
 font-size: 20px;
 }
 .user-info small{
- color: #009688;
+ color: #FFFF80DD;
 }
 .testimonial-col:hover{
  transform: translateY(-7px); 
@@ -391,7 +391,7 @@ text-align: right;
   }
  .footer-left .fa,.footer-right .fa{
 font-size: 20px;
-color: #009688;
+color: #FFFF80DD;
 margin: 10px;
 }
 .footer-img{
@@ -414,9 +414,9 @@ height: 40px;
 width: 40px;
 font-size: 20px;
 line-height: 40px;
-border: 1px solid #009688;
+border: 1px solid #FFFF80DD;
 margin: 40px 5px 0;
-color: #009688;
+color: #FFFF80DD;
 cursor: pointer; 
 transition: .5s;
 
@@ -426,7 +426,7 @@ transition: .5s;
 }
 
 .social-links .fa:hover{
-background: #009688;
+background: #FFFF80DD;
 color: #fff;
 transform: translateY(-7px);
 
@@ -447,7 +447,7 @@ top: 25%;
 
 }
 .BT{
-				background:#009688;
+				background:#FFFF80DD;
 				color:white;
 				border-radius: 8px;
 				font-weight: bold;
@@ -487,7 +487,7 @@ position: absolute;
 top: 0;
 border-radius: 7px;
 cursor: pointer;
-background: linear-gradient(rgba(0,0,0,0.5), #009688);
+background: linear-gradient(rgba(0,0,0,0.5), #FFFF80DD);
 opacity: 0;
 transition: 1s;
 }
@@ -589,8 +589,9 @@ height: 27px;
 
 margin-top: 10px;
 
-background:#009688;
+background:#FFFF80DD;
 
 border: medium none;
 
 }
+<!-- created by Kapil khatik  -->
